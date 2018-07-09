@@ -8,4 +8,4 @@ testDir=null //"TC-Collection/Main/automated-TCs/"
 r_versions="R-3.4.2" //space-separated
 
 def pipeline=new DXREB_Rbuild()
-pipeline.startBuildProcess(pkg2build,srcDir,testDir, r_versions)
+pipeline.startBuildProcess(pkg2build:pkg2build,r_versions:r_versions, doLinux:false)
