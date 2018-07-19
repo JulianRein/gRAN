@@ -5,7 +5,7 @@ Version: 2.5.1.2
 Author: Gabriel Becker[aut,cre], Cory Barr [cre,ctb], Dinakar Kulkarni [aut,ctb]
 Maintainer: Gabriel Becker <becker.gabriel@gene.com>
 Authors@R: c(
-	person("Gabriel", "Becker", , "becker.gabriel@gene.com", role = c("aut","cre")),
+	person("Gabriel", "Becker", "becker.gabriel@gene.com", role = c("aut","cre")),
     )
 Copyright: Genentech Inc
 Description: Repository based tools for department and analysis level
